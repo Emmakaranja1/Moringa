@@ -1,0 +1,19 @@
+{
+  "name": "moringa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emmakaranja1/Moringa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emmakaranja1/Moringa/issues"
+  },
+  "homepage": "https://github.com/Emmakaranja1/Moringa#readme"
+}
